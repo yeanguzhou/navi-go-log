@@ -1,3 +1,3 @@
-module navi-go-log
+module github.com/yeanguzhou/navi-go-log
 
 go 1.13
