@@ -1,3 +1,3 @@
-module navi/navi-go-log
+module navi-go-log
 
 go 1.13
